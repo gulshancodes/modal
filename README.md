@@ -1,7 +1,7 @@
 # Modal
-Modal using Pure Javascript
+Fully Responsive Modal using Pure Javascript.
 
-### [Demo Link](https://candid-shots.netlify.app) 🔗
+### [Demo Link](https://gulshancodes.github.io/modal/) 🔗
 
 A Modal (also called as dialog-box or popup-window) is a web page element that displays in front of or on top of the current page and deactivates all other page content.
 <br/>
