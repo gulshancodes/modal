@@ -1,5 +1,5 @@
 # Modal
-Fully Responsive Modal using Pure Javascript.
+Fully Responsive Modal using Vanilla JavaScript.
 
 ### [Demo Link](https://gulshancodes.github.io/modal/) 🔗
 
