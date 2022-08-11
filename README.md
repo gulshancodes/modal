@@ -1,10 +1,16 @@
 # Modal
-Fully Responsive Modal using Vanilla JavaScript.
+#### Fully Responsive Modal using Vanilla JavaScript.
 
 ### [Demo Link](https://gulshancodes.github.io/modal/) 🔗
 
 A Modal (also called as dialog-box or popup-window) is a web page element that displays in front of or on top of the current page and deactivates all other page content.
 <br/>
+
+## Features:
+
+- Remove the body-scroll, so that modal content scrolls instead.
+- Clicking on the modal "backdrop" will automatically close the modal.
+- Pressing the "Escape" key will also close the modal.
 
 ## Author:
 
