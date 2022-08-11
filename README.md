@@ -8,7 +8,10 @@ A Modal (also called as dialog-box or popup-window) is a web page element that d
 
 ## Features:
 
-- Remove the body-scroll, so that modal content scrolls instead.
+- Fully Responsive
+- Completely built with HTML, CSS and JavaScript
+- No additional libraries or frameworks
+- Removes the body-scroll, so that modal content scrolls instead.
 - Clicking on the modal "backdrop" will automatically close the modal.
 - Pressing the "Escape" key will also close the modal.
 
